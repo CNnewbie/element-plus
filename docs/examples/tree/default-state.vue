@@ -37,7 +37,7 @@ const data = [
   },
   {
     id: 2,
-    label: 'Level one 2',
+    label: 'Level one 21',
     children: [
       {
         id: 5,
